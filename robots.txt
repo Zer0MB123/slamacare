@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /private/
 
-Sitemap: https://zer0mb123.github.io/slamacare/sitemap.xml
+Sitemap: https://salamacare.online/sitemap.xml

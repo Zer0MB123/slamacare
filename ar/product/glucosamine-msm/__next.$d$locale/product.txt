@@ -2,4 +2,4 @@
 2:I[86390,["/slamacare/_next/static/chunks/08txcsxonp8r4.js","/slamacare/_next/static/chunks/175vfwq0coyu-.js"],"default"]
 3:I[81743,["/slamacare/_next/static/chunks/08txcsxonp8r4.js","/slamacare/_next/static/chunks/175vfwq0coyu-.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"zocUk0ffFsUoUc7DbWBtK"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"2lXp6J3-AtqKIB9Mt11yw"}
